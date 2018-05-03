@@ -14,4 +14,4 @@ or wasn't closed with the same quote-character that started it.
 print("How do you make a hotdog stand?")
 print('You take away its chair!')
 
-#Reference: Codecadamy
+#Reference: Codecademy
