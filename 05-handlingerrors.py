@@ -15,3 +15,4 @@ print("How do you make a hotdog stand?")
 print('You take away its chair!')
 
 #Reference: Codecademy
+# :)
