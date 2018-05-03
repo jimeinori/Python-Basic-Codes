@@ -2,5 +2,5 @@
 
 '''
 This is a multiline
-comment.
+comment. :)
 '''
