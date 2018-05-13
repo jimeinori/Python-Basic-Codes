@@ -26,3 +26,5 @@ scientific notation, with e indicating the power of 10.
 
 # this evaluates to 350:
 float4 = 3.5e2
+print("---------------------")
+input("Press ENTER to exit.")

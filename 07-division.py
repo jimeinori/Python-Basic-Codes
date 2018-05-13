@@ -41,6 +41,7 @@ item_count_2 = 250
 distribution_count_2 = 30
 item_per_distribution_2 = item_count_2 / distribution_count_2
 print(item_per_distribution_2)
-
+print("---------------------")
+input("Press ENTER to exit.")
 #Reference: Codecademy
 # :)

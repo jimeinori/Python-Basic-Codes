@@ -57,6 +57,7 @@ string_num = "5.5"
 # For this to work, use float() inside int().
 print(int(float(string_num)))
 print(float(string_num))
-
+print("---------------------")
+input("Press ENTER to exit.")
 #Reference: Codecademy + Stackoverflow
 # :)

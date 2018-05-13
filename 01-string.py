@@ -11,3 +11,5 @@ print("We can combine multiple strings using '+'.")
 #Simply add them to create a string!
 print("Outcome will be:")
 print("You are " + "cool.")
+print("---------------------")
+input("Press ENTER to exit.")

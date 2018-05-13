@@ -65,6 +65,7 @@ add it to the total price of the hamburger. Finally,
 we complete the transaction by reducing our
 money_in_wallet by the cost of the hamburger (with tax).
 '''
-
+print("---------------------")
+input("Press ENTER to exit.")
 #Reference: Codecademy
 # :)

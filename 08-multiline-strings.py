@@ -8,3 +8,5 @@ powerful heroes
 in the world of fondness."""
 
 print(quote_string)
+print("---------------------")
+input("Press ENTER to exit.")
