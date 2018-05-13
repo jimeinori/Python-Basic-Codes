@@ -19,12 +19,12 @@ t = "father"[3]
   called t and set it to "t",
   the character at index three of the string "father".
 
-> Notice that in the first "cat" example we are
-  calling the 0th letter of "cat" and getting "c"
+> Notice that in the first "mother" example we are
+  calling the 0th letter of "mother" and getting "m"
   in return. This is because in Python indices begin
-  counting at 0. Therefore, in the string "cats",
-  the first letter, "c", is at the 0th index and
-  the last letter, "s", is at the 3rd index.
+  counting at 0. Therefore, in the string "mother",
+  the first letter, "m", is at the 0th index and
+  the last letter, "r", is at the 3rd index.
 --------------------------------------------------------
 The string "PYTHON" has six characters,
 numbered 0 to 5, as shown below:
