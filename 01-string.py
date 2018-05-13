@@ -11,5 +11,9 @@ print("We can combine multiple strings using '+'.")
 #Simply add them to create a string!
 print("Outcome will be:")
 print("You are " + "cool.")
+#There are some characters that cause problems.
+#For example:'There's a snake in my boot!'
+#We can use the backslash to fix the problem, like this:
+#'There\'s a snake in my boot!'
 print("---------------------")
 input("Press ENTER to exit.")
