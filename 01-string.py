@@ -8,7 +8,7 @@ print('a string needs to be opened and closed by the same type of quote mark.')
 print("We can combine multiple strings using '+'.")
 #First combination of text: You are
 #Second text: cool
-#Simply add them to create a string!
+#Simply add them to create a string! (called: Concatenation)
 print("Outcome will be:")
 print("You are " + "cool.")
 #There are some characters that cause problems.
