@@ -21,7 +21,11 @@ print("--------------------------")
 print(now.year)
 print(now.month)
 print(now.day)
-#================{PRINT USING FORMAT mm/dd/yyyy}===============#
+#============{PRINT DATE USING FORMAT mm/dd/yyyy}===========#
 print("--------------------------")
 print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 #Check "11-stringmethods.py", line 35, for placeholder recap [%].
+#==============={PRINT TIME FORMAT hh:mm:ss}===============#
+print("--------------------------")
+print("%02d:%02d:%02d" % (now.hour, now.minute, now.second))
+#Almost the same with printing date, except we've change the placeholder's padding.
