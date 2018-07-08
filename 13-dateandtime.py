@@ -29,3 +29,7 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 print("--------------------------")
 print("%02d:%02d:%02d" % (now.hour, now.minute, now.second))
 #Almost the same with printing date, except we've change the placeholder's padding.
+#==============={COMBINING THE TWO AND PRINT}===============#
+print("%02d/%02d/%04d %02d:%02d:%02d" % (now.month, now.day, now.year, now.hour, now.minute, now.second))
+print("---------------------")
+input("Press ENTER to exit.")
