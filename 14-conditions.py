@@ -1,6 +1,7 @@
 #==================={Conditions/ControlFlow}=====================#
 
 #Control flow - gives us this ability to choose among outcomes.
+#def - a function defined in Python.
 
 #ExampleCodeWithoutContext
 def yourself():
