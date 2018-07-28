@@ -1,9 +1,9 @@
 #==================={Conditions/ControlFlow}=====================#
 
-#Control flow - gives us this ability to choose among outcomes.
+#A conditional statement that determines which branch is executed.
 #def - a function defined in Python.
 
-#ExampleCodeWithoutContext
+#ExampleCodeWithoutContext-Condition
 def yourself():
 	print("You're now trapped inside a box.")
 	print("Will you stay inside or go outside?")
