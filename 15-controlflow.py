@@ -22,8 +22,8 @@ elif num3 < num4:
 	print(False)
 
 #Comparator P3 (<=) and (>=)
-num5= 20
-num6= 50
+num5 = 20
+num6 = 50
 
 if num5 >= num6:
 	print(True)
