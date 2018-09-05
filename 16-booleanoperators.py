@@ -27,12 +27,16 @@ NOT:
 # EXAMPLES
 
 condition_one = 1 > 10 and 2 < 1 # False AND False
+print(condition_one)
 
 condition_two = 1 == -4 and 4 >= 16 ** 0.5 # False AND True
+print(condition_two)
 
 condition_three = 19 % 4 != 300 / 10 / 10 and 20 % 5 == 1 + 11 # True AND False
+print(condition_three)
 
 condition_four = -(1 ** 2) < 2 ** 10 and 10 % 10 <= 20 - 10 * 2 # True AND True
+print(condition_four)
 
 condition_five = 2 ** 0 != 2 and 10 / 5 == 1 + 1 # True AND True
-
+print(condition_five)
